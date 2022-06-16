@@ -9,6 +9,7 @@ body {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 ::-webkit-scrollbar {
@@ -24,7 +25,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #ff2625;
+  color: #2c3e50;
   font-size: 25px;
   border-radius: 4px;
   position: absolute;
@@ -67,7 +68,7 @@ body {
   width: 400px;
   height: 445px;
   background: #fff;
-  border-top: 4px solid #ff2625;
+  border-top: 4px solid #2c3e50;
   border-bottom-left-radius: 20px;
   text-decoration: none;
   display: flex;

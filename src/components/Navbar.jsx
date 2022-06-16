@@ -47,7 +47,7 @@ const Navbar = () => {
       >
         <Link
           to="/"
-          style={{ ...linkStyle, borderBottom: "3px solid #ff2625" }}
+          style={{ ...linkStyle, borderBottom: "3px solid #2c3e50" }}
         >
           Home
         </Link>
